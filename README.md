@@ -65,6 +65,8 @@ In these projects below are some of my work as a network engineer and SRE: ⤵�
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=infra-network-voip-aircraft&theme=dark"/>
     <a href="https://github.com/eliezer-pires/InfrastructureTImigration-and-Improve">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=InfrastructureTImigration-and-Improve&theme=dark"/>
+    <a href="https://github.com/eliezer-pires/OnPremissesAutomation">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=OnPremissesAutomation&theme=dark"/>
 </div>
 
 The projects bellow are to help me with my study to DevOps: ⤵️
