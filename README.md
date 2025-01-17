@@ -78,3 +78,9 @@ The projects bellow are to help me with my study to DevOps: ⤵️
 </div>
 
 The projects below are to help me with studying and reviewing for the LPIC-1 101 exam: ⤵️
+
+## Connect with me:
+<div>
+    <a href = "mailto:eliezerpiresti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/eliezer-pires-sre-devops-aws" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
