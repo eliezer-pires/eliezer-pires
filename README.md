@@ -77,8 +77,19 @@ The projects bellow are to help me with my study to DevOps: ⤵️
     
 </div>
 
-The projects below are to help me with studying and reviewing for the LPIC-1 101 exam: ⤵️
+##  📖 Book Read and Reading:
 
+- Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 15% (reading without rush in paralel studying for Terraform Certification)
+- Descomplicando o Docker - Jerome Petazoni - 45% (Stop for study Terraform Certification)
+- Python Crash Course - Eric Bader - 50% (Exercises)
+- Análise de Tráfego de Redes TCP/IP - João Eriberto Mota Filho
+- Configuração de Roteadores e Switches Cisco - Nível Básico - Ademar Felipe Fey, Raul Ricardo Gauer
+- The Clean Coder - Robert C. Martin
+- Clean Code - Robert C. Martin
+- Python - Guia prático do básico ao avançado - Rafael FVC Santos
+- Organização Estruturada de Computadores - Andrew Tanenbaum
+- Redes de Computadores - Andrew Tanenbaum
+  
 ## Connect with me:
 <div>
     <a href = "mailto:eliezerpiresti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
