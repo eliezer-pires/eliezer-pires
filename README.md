@@ -80,8 +80,9 @@ The projects bellow are to help me with my study to DevOps: ⤵️
 
 ##  📖 Book Read and Reading:
 
+- Descomplicando o Docker 2°Ed. - Vitalino, Jeferson Fernando e Castro, Marcus André - 1% (Together with course Docker Gerenciando Container - Iago Ferreira)
+- Terraform Made Easy: A Beginner's Guide - Parvin, R. - 78%
 - Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 15% (reading without rush in paralel studying for Terraform Certification)
-- Descomplicando o Docker - Jerome Petazoni - 45% (Stop for study Terraform Certification)
 - Python Crash Course - Eric Bader - 50% (Exercises)
 - Análise de Tráfego de Redes TCP/IP - João Eriberto Mota Filho
 - Configuração de Roteadores e Switches Cisco - Nível Básico - Ademar Felipe Fey, Raul Ricardo Gauer
