@@ -72,12 +72,13 @@ In these projects below are some of my work as a network engineer and SRE: ⤵�
 The projects bellow are to help me with my study to DevOps: ⤵️
 
 <div style="display: flex; justify-content: center;">
-    <a href="https://github.com/eliezer-pires/devops-learning">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=devops-learning&theme=dark"/>
-    <a href="https://github.com/eliezer-pires/terraform-learning">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=terraform-learning&theme=dark"/>
-    <a href="https://github.com/eliezer-pires/docker-learn">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=terraform-learning&theme=dark"/>
+  <a href="https://github.com/eliezer-pires/docker-learn">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=docker-learn&theme=dark"/>  
+  <a href="https://github.com/eliezer-pires/terraform-learning">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=terraform-learning&theme=dark"/>
+  <a href="https://github.com/eliezer-pires/devops-learning">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=eliezer-pires&repo=devops-learning&theme=dark"/>
+    
 </div>
 
 ##  📖 Book Read and Reading:
