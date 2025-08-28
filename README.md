@@ -24,7 +24,7 @@
     <a href="https://www.credly.com/badges/534be0f2-58cb-46de-942b-ecc64dd5a888">
     <img alt="Eliezer-awsccp" height="110" width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
     <img alt="Eliezer-fortinet-cybersecurity" height="110" width="120" src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" /><br><br><br>
-    I've been studying Docker and CI/CD since May 2025.
+    I've been studying LPIC-1 101 since August 2025.
 </div>
 
 
