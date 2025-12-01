@@ -24,7 +24,7 @@
     <a href="https://www.credly.com/badges/534be0f2-58cb-46de-942b-ecc64dd5a888">
     <img alt="Eliezer-awsccp" height="110" width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
     <img alt="Eliezer-fortinet-cybersecurity" height="110" width="120" src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" /><br><br><br>
-    I've been studying LPIC-1 101 since August 2025.
+    I passed the LPIC-1 101 exam and I'm studying for the 102-500 exam.
 </div>
 
 
@@ -83,8 +83,8 @@ The projects bellow are to help me with my study to DevOps: ⤵️
 
 ##  📖 Book Read and Reading:
 
-- GitHub Actions Essentials Automate, Integrate, Deploy: Unlocking the power of GitHub Actions. - Cross, Dave - 15%
-- Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 15% (reading without rush in paralel studying for Terraform Certification)
+- GitHub Actions Essentials Automate, Integrate, Deploy: Unlocking the power of GitHub Actions. - Cross, Dave - 50%
+- Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 25% (reading without rush in paralel studying for Terraform Certification)
 - Python Crash Course - Eric Bader - 50% (Exercises)
 - Descomplicando o Docker 2°Ed. - Vitalino, Jeferson Fernando e Castro, Marcus André
 - Terraform Made Easy: A Beginner's Guide - Parvin, R.
