@@ -21,10 +21,12 @@
 -->
 ## Certifications
 <div style="display: flex; justify-content: center;"><br>
+    <a href="https://www.credly.com/badges/74be2f28-2ecb-4b2a-a38d-ec7e9699c9ff">
+    <img alt="Eliezer-lpic1" height="110" width="120" src="https://images.credly.com/size/340x340/images/c0ffb784-86af-4e2e-8f97-fe4fff1aa57a/blob" /></a>
     <a href="https://www.credly.com/badges/534be0f2-58cb-46de-942b-ecc64dd5a888">
     <img alt="Eliezer-awsccp" height="110" width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
     <img alt="Eliezer-fortinet-cybersecurity" height="110" width="120" src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" /><br><br><br>
-    I passed the LPIC-1 101 exam and I'm studying for the 102-500 exam.
+    I'm studying for the LFCS.
 </div>
 
 
