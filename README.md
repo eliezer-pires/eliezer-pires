@@ -25,6 +25,8 @@
     <img alt="Eliezer-lpic1" height="110" width="120" src="https://images.credly.com/size/340x340/images/c0ffb784-86af-4e2e-8f97-fe4fff1aa57a/blob" /></a>
     <a href="https://www.credly.com/badges/534be0f2-58cb-46de-942b-ecc64dd5a888">
     <img alt="Eliezer-awsccp" height="110" width="120" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" /></a>
+    <a href="https://www.credly.com/earner/earned/badge/e6cbc626-e03c-4c5c-b434-11e23274767a">
+    <img alt="Eliezer-cisco-security" height="110" width="120" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" /></a>
     <br><br><br>
     I'm studying for the LFCS.
 </div>
