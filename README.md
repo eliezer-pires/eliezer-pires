@@ -87,9 +87,9 @@ The projects bellow are to help me with my study to DevOps: ⤵️
 
 ##  📖 Book Read and Reading:
 
-- GitHub Actions Essentials Automate, Integrate, Deploy: Unlocking the power of GitHub Actions. - Cross, Dave - 50%
-- Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 25% (reading without rush in paralel studying for Terraform Certification)
-- Python Crash Course - Eric Bader - 50% (Exercises)
+- Manual DevOps - Jez Humble, Patrick Debos, John Willis, Gene Kim - 98%
+- GitHub Actions Essentials Automate, Integrate, Deploy: Unlocking the power of GitHub Actions. - Cross, Dave 
+- Python Crash Course - Eric Bader
 - Descomplicando o Docker 2°Ed. - Vitalino, Jeferson Fernando e Castro, Marcus André
 - Terraform Made Easy: A Beginner's Guide - Parvin, R.
 - Análise de Tráfego de Redes TCP/IP - João Eriberto Mota Filho
